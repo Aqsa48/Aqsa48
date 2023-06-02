@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ## I am Aqsa
-
 # 👩‍🔬 Researcher | 👩‍💻 Developer | 🖥️ Programmer
 
 Welcome to my GitHub profile! I'm passionate about research, experienced in development, and love coding. 🌟
+
 
 ## 👩‍💼 About Me
 
