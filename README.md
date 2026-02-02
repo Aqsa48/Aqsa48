@@ -3,58 +3,9 @@
 PhD Candidate in **Modeling and Data Science**  
 University of Turin, Italy  
 
-I am a **1st-year PhD student in Modeling and Data Science at the University of Turin**. My supervisors are **Stefano Ferraris (DIST Department)** and **Rosa Meo (Computer Science Department)**.  
+I am a 1st-year PhD student in Modeling and Data Science at the University of Turin, supervised by Stefano Ferraris and Rosa Meo. I have a background in Software Engineering with professional experience as a software engineer and university lecturer. My work focuses on machine learning and data science, and I enjoy working with interdisciplinary data, including health and biological domains.
 
-I have a background in **Software Engineering** with professional experience as a **software engineer** and **lecturer**. My work focuses on data science, machine learning, and solving real-world problems using **interdisciplinary data**, including health and biological domains.
-
----
-
-## About Me
-
-- PhD researcher in Modeling and Data Science  
-- Experience working with interdisciplinary datasets  
-- Former Software Engineer (full-stack development)  
-- University Lecturer in computing courses  
-- Research experience in ML, NLP, and Bioinformatics  
-- Worked on COVID-19 genome sequence analysis  
-
----
-
-## Research Interests
-
-- Machine Learning and Deep Learning  
-- Data Science and Predictive Modeling  
-- Natural Language Processing  
-- Bioinformatics and Genome Analysis  
-- Pattern Mining  
-
----
-
-## Skills
-
-**Programming:** Python, R, Java, JavaScript  
-**Web:** React, Node.js, MERN Stack, HTML, CSS  
-**Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLTK, Transformers  
-
----
-
-## Experience
-
-**Software Engineer – TheWarehouse.pk**  
-Worked on marketplace development using React and MERN stack.
-
-**Lecturer – Sindh Madressatul Islam University**  
-Taught courses, managed labs, and supervised student projects.
-
----
-
-## Projects
-
-- COVID-19 Genome Data Analysis  
-- Activity Recognition using Machine Learning  
-- Marketplace system built with MERN stack  
-
----
+My research interests include machine learning, data science, natural language processing, bioinformatics, and pattern mining. I have worked on COVID-19 genome analysis, activity recognition using machine learning, and full-stack marketplace system development using the MERN stack.
 
 ## Connect With Me
 
