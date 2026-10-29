@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aqsa Umar 👋
+# Hi, I'm Aqsa  👋
 
 ### Modeling & Data Science · Machine Learning · Scientific Python
 
@@ -19,13 +19,13 @@ Connecting software engineering with data-driven research in climate, hydrology,
 
 ---
 
-## 🔬 About me
+##  About me
 
 I'm a PhD candidate in **Modeling and Data Science at the University of Turin**, supervised by **Stefano Ferraris**. My background combines software engineering, university teaching, and interdisciplinary research.
 
 My current work centers on **climate and hydrological data**, with Python workflows for time-series analysis, scientific datasets, and visualization. I also bring experience in **machine learning, COVID-19 genome analysis, and full-stack development with the MERN stack**.
 
-## 🛠 Current skill set
+##  Current skill set
 
 | Area | Skills & tools |
 | :--- | :--- |
@@ -46,14 +46,14 @@ My current work centers on **climate and hydrological data**, with Python workfl
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-## 🌍 Research focus
+##  Research focus
 
 - **Climate & hydrology:** working with weather, snow, and hydrological time series to support environmental research.
 - **Machine learning & data science:** preparing data, exploring patterns, and evaluating predictive models.
 - **Bioinformatics:** applying sequential pattern mining and mutation analysis to COVID-19 genome sequences.
 - **Broader interests:** natural language processing, deep learning, and applications in health and biological data.
 
-## ✨ Selected work
+##  Selected work
 
 | Project | What you'll find |
 | :--- | :--- |
@@ -74,7 +74,7 @@ My current work centers on **climate and hydrological data**, with Python workfl
 
 </details>
 
-## 💻 Beyond research
+##  Beyond research
 
 My software engineering experience includes **MERN marketplace development**, while my teaching background keeps me connected to programming education and practical learning. Previous research has also included **activity recognition using machine learning**.
 
