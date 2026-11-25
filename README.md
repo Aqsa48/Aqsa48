@@ -53,15 +53,16 @@ My current work centers on **climate and hydrological data**, with Python workfl
 - **Bioinformatics:** applying sequential pattern mining and mutation analysis to COVID-19 genome sequences.
 - **Broader interests:** natural language processing, deep learning, and applications in health and biological data.
 
-##  Selected work
+## Main open-source projects
 
-| Project | What you'll find |
+| Project | What you can use or contribute |
 | :--- | :--- |
-| **[Scientific data workflows](https://github.com/Aqsa48/Final_Scripts)** | Python notebooks for data merging, hydrological dataset extraction, and scientific visualization. |
-| **[NetCDF → TIFF tool](https://github.com/Aqsa48/NetCDFtoTiff_Tool)** | Work on raster conversion and checking differences between source and converted data. |
-| **[COVID-19 genome analysis](https://github.com/Aqsa48/SPM-MA4GSA)** | Sequential pattern mining and Python code for mutation analysis in genome sequences. |
-| **[Machine learning notebooks](https://github.com/Aqsa48/ML_my_course_learning)** | Practical work on preprocessing, encoding, classification, and evaluation. |
-| **[GitHub Finder](https://github.com/Aqsa48/GitHubFinder)** | A project from my web development portfolio. |
+| **[NetCDF to GeoTIFF](https://github.com/Aqsa48/NetCDFtoTiff_Tool)** | A reusable Python converter and [public browser tool](https://aqsa-netcdf-to-geotiff.aqsa-35.chatgpt.site) for regular scientific grids, with synthetic examples and verified GeoTIFF output. |
+| **[Data Science lessons](https://github.com/Aqsa48/Data-Science)** | Runnable Python, statistics, and machine-learning lessons, plus exercises with expected results and tests. |
+| **[SARS-CoV-2 variant feature datasets](https://github.com/Aqsa48/Federated-Learning-for-Non-IID-Data-SARS-CoV-2-Variant-Classification-Dataset)** | Country-specific feature tables, dataset validation, and a centralized reference baseline with a synthetic demo. |
+| **[Learn by Doing](https://github.com/Aqsa48/earning_by_learning_resources)** | Learning resources and a complete CSV quality-report project for turning a small idea into something useful. |
+
+Each project has setup instructions, contributor guidance, and small tasks to help you get started. For research work, the repositories distinguish synthetic demonstrations from scientific results.
 
 <details>
 <summary><b>📚 More learning resources & code</b></summary>
