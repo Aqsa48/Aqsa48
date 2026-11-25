@@ -57,7 +57,7 @@ My current work centers on **climate and hydrological data**, with Python workfl
 
 | Project | What you can use or contribute |
 | :--- | :--- |
-| **[NetCDF to GeoTIFF](https://github.com/Aqsa48/NetCDFtoTiff_Tool)** | A reusable Python converter and [public browser tool](https://aqsa-netcdf-to-geotiff.aqsa-35.chatgpt.site) for regular scientific grids, with synthetic examples and verified GeoTIFF output. |
+| **[NetCDF to GeoTIFF](https://github.com/Aqsa48/NetCDFtoTiff_Tool)** | A reusable Python converter and [public browser tool](https://aqsabrohi.me/NetCDFtoTiff_Tool/) for regular scientific grids, with synthetic examples and verified GeoTIFF output. |
 | **[Data Science lessons](https://github.com/Aqsa48/Data-Science)** | Runnable Python, statistics, and machine-learning lessons, plus exercises with expected results and tests. |
 | **[SARS-CoV-2 variant feature datasets](https://github.com/Aqsa48/Federated-Learning-for-Non-IID-Data-SARS-CoV-2-Variant-Classification-Dataset)** | Country-specific feature tables, dataset validation, and a centralized reference baseline with a synthetic demo. |
 | **[Learn by Doing](https://github.com/Aqsa48/earning_by_learning_resources)** | Learning resources and a complete CSV quality-report project for turning a small idea into something useful. |
